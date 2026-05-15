@@ -1,2 +1,2 @@
 # micro-grad
-Automatic Gradient Updation 
+Automatic Gradient Updation ( Implements Backpropagation from Scratch )
